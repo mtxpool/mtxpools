@@ -1,5 +1,7 @@
 # mtxpools
 
-Cardano has you... Follow ADA... Knock, Knock everyone!
-Website is work in progress.
-Your support is appreciated, let's grow together!
+Welcome... To the Real World! </br>
+
+Your support is appreciated, let's grow together!</br>
+
+Website is Work in Progress...</br>
