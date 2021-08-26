@@ -2,9 +2,11 @@
 
 Welcome... To the Real World! </br>
 
-Your support is appreciated, let's grow together!</br>
+High performance, reliable and secure Cardano pool, running on Enterprise grade hardware and internet connection, privately hosted.
+
+Your support is appreciated, let's help to keep Cardano growing and decentralized!</br>
 
 Website -- Work in Progress.</br>
 
 # Pools
-- Nebuchadnezzar - 1rst Singapore MTX stake pool
+- Nebuchadnezzar - First Singapore MTX stake pool, registered on 17/07/2021
