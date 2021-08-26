@@ -2,7 +2,7 @@
 
 Welcome... To the Real World! </br>
 
-High performance, reliable and secure Cardano pool, running on Enterprise grade hardware and internet connection, privately hosted.
+24/7 High performance, reliable and secure Cardano pool, running on Enterprise grade hardware and internet connection, privately hosted.
 
 Your support is appreciated, let's help to keep Cardano growing and decentralized!</br>
 
