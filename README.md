@@ -6,7 +6,5 @@ Welcome... To the Real World! </br>
 
 Your support is appreciated, let's help to keep Cardano growing and decentralized!</br>
 
-Website -- Work in Progress.</br>
-
 # Pools
 - Nebuchadnezzar - First Singapore MTX stake pool, registered on 17/07/2021
