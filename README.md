@@ -6,7 +6,6 @@ Welcome... To the Real World! </br>
 
 Cardano pool nodes updated to 1.29.0 and ready for Alonzo!
 
-
 0% fees! Your support is appreciated, let's help to keep Cardano decentralized and growing!</br>
 
 # Pools
